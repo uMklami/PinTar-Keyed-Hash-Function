@@ -1,0 +1,9 @@
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\bin\Debug\NewKeyScheduling.exe.config
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\bin\Debug\NewKeyScheduling.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\bin\Debug\NewKeyScheduling.pdb
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\obj\Debug\NewKeyScheduling.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\obj\Debug\NewKeyScheduling.Properties.Resources.resources
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\obj\Debug\NewKeyScheduling.csproj.GenerateResource.Cache
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\obj\Debug\NewKeyScheduling.exe
+c:\users\muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\obj\Debug\NewKeyScheduling.pdb
+C:\Users\Muhammad\documents\visual studio 2012\Projects\NewKeyScheduling\NewKeyScheduling\obj\Debug\NewKeyScheduling.PinTarGUI.resources
